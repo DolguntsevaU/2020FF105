@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <math.h>
 #include <clocale>
 
@@ -27,5 +27,4 @@ int main()
 	};
 	return 0;
 }
-
 

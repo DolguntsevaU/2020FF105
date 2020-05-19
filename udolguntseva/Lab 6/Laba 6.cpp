@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int faktorial(int n)
@@ -16,7 +16,6 @@ int main()
 
     cout << s;
 
-    
+
     return 0;
 }
-
