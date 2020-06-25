@@ -1,0 +1,4 @@
+﻿  6.B.cpp
+C:\Users\lenovo\Documents\GitHub\udolguntseva\Lab 6\6.B\6.B.cpp(18,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\Documents\GitHub\udolguntseva\Lab 6\6.B\6.B.cpp(21,55): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  6.B.vcxproj -> C:\Users\lenovo\Documents\GitHub\udolguntseva\Lab 6\6.B\Debug\6.B.exe
